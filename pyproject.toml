@@ -26,7 +26,7 @@ exclude = [
 ]
 
 [tool.black]
-line-lenght=120
+line-length=120
 
 [tool.mypy]
 ignore_missing_imports=true
